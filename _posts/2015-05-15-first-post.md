@@ -1,7 +1,7 @@
 ---
-title:  "Test Post"
-categories: sample
-image: feat-img.jpg
+title:  "News"
+categories: general
+image: news.svg
 ---
 
-A test post has been placed here
+
