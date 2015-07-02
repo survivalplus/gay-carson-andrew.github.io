@@ -4,4 +4,4 @@ permalink: /about/
 image: ""
 ---
 
-This is the about page to this simple blog theme.
+Father of a young family Andrew is... 
