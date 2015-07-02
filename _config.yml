@@ -5,7 +5,7 @@ description: A small blog with all of my creations
 baseurl: ""
 url: "http://andrewcarsongay.com"
 twitter_username: "AndrewCGay"
-avatar: "" # Set footer avatar
+avatar: "http://i1027.photobucket.com/albums/y332/andrewcarsongay/family_zpsgwsi0iew.jpg?t=1435766655" # Set footer avatar
 paginate: 3
 
 # Build settings
