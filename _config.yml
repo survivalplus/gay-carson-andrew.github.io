@@ -2,8 +2,8 @@
 title: My Creations
 email: gay.carson.andrew@gmail.com
 description: A small blog with all of my creations
-baseurl: "/gay-carson-andrew.github.io"
-url: "gay-carson-andrew.github.io"
+baseurl: ""
+#url: "gay-carson-andrew.github.io"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
