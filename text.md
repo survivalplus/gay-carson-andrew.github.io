@@ -1,4 +1,3 @@
-
 ---
 title: test
 permalink: /test/
