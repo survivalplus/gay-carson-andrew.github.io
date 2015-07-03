@@ -1,0 +1,4 @@
+---
+title: Hire
+permalink: /hire/
+---
