@@ -2,18 +2,10 @@
   <div class="grid">
     <div class="centered grid__col--6">
       <p>{{ site.description }} <br>
-        <ul>
-          <li><a href="https://linkedin.com/in/andrewcarsongay"><img src="http://www.thegrowthdriver.com/wp-content/uploads/2014/06/LinkedIn_Icon.png" alt="linkedin"/></a></li>
-          <li><a href="https://www.centural.co"><img src="" alt="centural minecraft"/></a></li>
-          <li><a href="https://www.survivalplus.co"><img src="" alt="survival+ minecraft"/></a></li>
-          
-        </ul>
-      </p>
-      
-      
-       Linkedin <a href="https://linkedin.com/in/andrewcarsongay"><img src="http://www.thegrowthdriver.com/wp-content/uploads/2014/06/LinkedIn_Icon.png"/></a>
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}">Link<img src="./img/linkedin.png" alt="linkedin"/></a>,
         Follow <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a> or
         subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
+      </p>
     </div>
   </div>
 </footer>
